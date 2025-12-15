@@ -463,7 +463,7 @@ export const themes = {
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
   meta_dark: {
-    title_color: "2f80ed",
+    title_color: "0081FB",
     text_color: "ffffff",
     icon_color: "ffffff",
     bg_color: "1C2B33",

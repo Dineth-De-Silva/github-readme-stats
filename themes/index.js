@@ -464,10 +464,10 @@ export const themes = {
   },
   meta_dark: {
     title_color: "2f80ed",
-    icon_color: "FFFFFF",
-    text_color: "FFFFFF",
+    text_color: "ffffff",
+    icon_color: "ffffff",
     bg_color: "1C2B33",
-    border_color: "FFFFFF",
+    border_color: "ffffff",
   },
 };
 

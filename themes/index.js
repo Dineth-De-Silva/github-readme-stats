@@ -470,7 +470,7 @@ export const themes = {
     border_color: "1C2B33",
   },
   meta_dark: {
-    title_color: "0081FB",
+    title_color: "FFFFFF",
     text_color: "ffffff",
     icon_color: "006EE9",
     bg_color: "1C2B33",

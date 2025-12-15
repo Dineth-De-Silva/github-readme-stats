@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  meta_light: {
+    title_color: "0081FB",
+    text_color: "1C2B33",
+    icon_color: "006EE9",
+    bg_color: "FFFFFF",
+    border_color: "1C2B33",
+  },
   meta_dark: {
     title_color: "0081FB",
     text_color: "ffffff",

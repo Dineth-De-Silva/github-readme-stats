@@ -465,7 +465,7 @@ export const themes = {
   meta_dark: {
     title_color: "0081FB",
     text_color: "ffffff",
-    icon_color: "ffffff",
+    icon_color: "006EE9",
     bg_color: "1C2B33",
     border_color: "ffffff",
   },
